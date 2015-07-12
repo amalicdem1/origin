@@ -19,3 +19,12 @@ logical change?
 You can use the staging area as a temporary holding area, then
 compare it to the working directory and the most recent commit to
 make sure that there is only/at least one logical change.
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+Branches would be helpful when making diff versions of your project,
+for example different languages, different levels of difficulty,
+different color schemes.  This would allow you to make progress in
+multiple versions without having to continuously go back to an old
+commit to do so.
+
