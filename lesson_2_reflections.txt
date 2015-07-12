@@ -14,3 +14,8 @@ the change made.  You can add files individually to the the staging
 area before making a commit so that you don't end up with individual
 commits for one change that involves multiple files.
 
+How can you use the staging area to make sure you have one commit per
+logical change?
+You can use the staging area as a temporary holding area, then
+compare it to the working directory and the most recent commit to
+make sure that there is only/at least one logical change.
