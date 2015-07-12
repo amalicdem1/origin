@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do
+it?
+When you initialize a repository it creates a .git file which stores
+meta deta so that you can then create commits and track your progress
+throughout a project.  You need to do in order to access older
+versions of your project.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+The staging area is a middle ground in which things from the working
+directory are about to be stored in the repository. It allows you to
+submit one commit for changes to multiple files, once all files have
+the change made.  You can add files individually to the the staging
+area before making a commit so that you don't end up with individual
+commits for one change that involves multiple files.
+
