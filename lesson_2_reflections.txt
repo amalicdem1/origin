@@ -33,4 +33,13 @@ The diagrams help sort out the different branches and clarify how
 different commits are related since commits are not always made in a
 linear fashion.
 
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+Merging two branches creates one tip through which you can access the
+commits for two branches in chronological order, the file will
+include features of both branches while deleting anything that has
+been deleted since the time that the two branches originally converged.
+We represent them in the diagram the way we do to show that all of
+the old commits from each branch are still available and accessible
+from one commit.
 
