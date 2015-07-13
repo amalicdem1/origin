@@ -28,3 +28,9 @@ different color schemes.  This would allow you to make progress in
 multiple versions without having to continuously go back to an old
 commit to do so.
 
+How do the diagrams help you visualize the branch structure?
+The diagrams help sort out the different branches and clarify how
+different commits are related since commits are not always made in a
+linear fashion.
+
+
