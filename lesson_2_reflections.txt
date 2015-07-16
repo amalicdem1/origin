@@ -43,3 +43,10 @@ We represent them in the diagram the way we do to show that all of
 the old commits from each branch are still available and accessible
 from one commit.
 
+What are the pros and cons of Git's automatic merging vs always doing
+merges manually?
+The automatic merging is extremely helpful, and saves a lot of time by
+looking through the files to spot differences and find out exactly
+what can be merged and what will conflict, only notifying you of the
+conflicts so that you can resolve those yourself.
+
