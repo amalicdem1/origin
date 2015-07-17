@@ -21,3 +21,9 @@ to a clone that are pushed to GitHub are available to other clones.
 Branches are areas in which one repository diverges, it is still
 all contained in within one repository, but changes to one branch
 won't affect another unless branches are merged.
+
+What is the benefit of having a copy of the last known state of the
+remote stored locallY?
+This is beneficial if you are going to go off-line.  In this case
+you can access the changes that were made remotely, without being
+forced to merge any commits if you aren't ready to.
