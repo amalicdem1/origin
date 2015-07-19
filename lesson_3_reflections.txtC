@@ -27,3 +27,9 @@ remote stored locallY?
 This is beneficial if you are going to go off-line.  In this case
 you can access the changes that were made remotely, without being
 forced to merge any commits if you aren't ready to.
+
+How would you collaborate without using Git or GitHub? What would
+be easier, and what would be harder?
+To collaborate without using GitHub you would have to keep sending
+updated versions of your project to others.  It would be much more
+difficult than using Git and GitHub.
